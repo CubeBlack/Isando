@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    margin-left: 250px;
+}
+
+.sidebar{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 240;
+    background-color: rgb(40, 40, 40);
+    color: white;
+    height: 100vh;
+}
+
+.sidebar > *{
+    margin: 5px;
+}

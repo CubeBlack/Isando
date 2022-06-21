@@ -1,0 +1,12 @@
+.arquivo{
+    /*display: flex;*/
+}
+
+.arquivo .bloco{
+    margin: 5px;
+
+}
+
+.arquivo .bloco textarea{
+    width: calc(100% - 10px);
+}

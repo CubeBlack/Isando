@@ -1,0 +1,8 @@
+.arquivo{
+    display: flex;
+}
+
+.arquivo .bloco{
+    margin: 5px;
+
+}
